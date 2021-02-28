@@ -1,6 +1,6 @@
 # Pathfinding
 
-Pathfinding on a Hexagon Grid map. The map is procedually generated using perlin noise.
+Pathfinding on a Hexagon Grid map. The map is procedually generated with the help of perlin noise.
 Closest Path Calculation takes Height Difference into account.
 
 Built using Unity3D Engine and C#.
